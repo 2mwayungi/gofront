@@ -1,9 +1,6 @@
 import "./scss/index.scss";
 
 import * as React from "react";
-
-import { SocialMediaIcon } from "..";
-import { SOCIAL_MEDIA } from "../../core/config";
 import abc from "../../images/abc.svg";
 import america from "../../images/america.svg";
 import bcd from "../../images/bcd.svg";
@@ -12,6 +9,9 @@ import jcb from "../../images/jcb.svg";
 import maestro from "../../images/maestro.svg";
 import master from "../../images/master.svg";
 import visa from "../../images/visa.svg";
+import { SocialMediaIcon } from "..";
+import { SOCIAL_MEDIA } from "../../core/config";
+
 import Nav from "./Nav";
 
 
